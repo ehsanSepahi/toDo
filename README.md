@@ -89,13 +89,6 @@ this app can save todo list with jqury
 
 ----------
 
-# Code overview
-
-## Dependencies
-
-- [jwt-auth](https://github.com/tymondesigns/jwt-auth) - For authentication using JSON Web Tokens
-- [laravel-cors](https://github.com/barryvdh/laravel-cors) - For handling Cross-Origin Resource Sharing (CORS)
-
 ## Folders
 
 - `app` - Contains all the Eloquent models
